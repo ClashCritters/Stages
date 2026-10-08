@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+    min-height: 100vh;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background: #0f172a;
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 1px solid #1e293b;
+    z-index: 10;
+}
+
+header h1 {
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
+}
+
+#search {
+    width: min(480px, 90%);
+    padding: 0.6rem 1rem;
+    border-radius: 999px;
+    border: 1px solid #334155;
+    background: #1e293b;
+    color: #e2e8f0;
+    outline: none;
+}
+
+#search:focus {
+    border-color: #38bdf8;
+}
+
+#status {
+    text-align: center;
+    padding: 2rem;
+    color: #94a3b8;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background: #1e293b;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    border: 1px solid #334155;
+    cursor: zoom-in;
+    transition: transform 0.15s ease;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    display: block;
+    background: #0b1120;
+}
+
+.card figcaption {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card .tags {
+    padding: 0 0.75rem 0.6rem;
+    font-size: 0.75rem;
+    color: #38bdf8;
+}
+
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(2, 6, 23, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    cursor: zoom-out;
+    z-index: 100;
+}
+
+.lightbox[hidden] {
+    display: none;
+}
+
+.lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 0.5rem;
+    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6);
+}
