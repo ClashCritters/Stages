@@ -29,7 +29,7 @@ function render(items) {
 
         const tags = document.createElement('div');
         tags.className = 'tags';
-        tags.textContent = (img.tags || []).join(' · ');
+        tags.textContent = (img.tags || []).slice(0,3).join(' · ');
 
         card.append(picture, caption, tags);
         card.addEventListener('click', () => openLightbox(img));
