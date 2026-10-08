@@ -1,0 +1,62 @@
+[
+    {
+        "file": "001.svg",
+        "name": "Blue Mountain",
+        "tags": ["001", "mountain", "blue"]
+    },
+    {
+        "file": "002.svg",
+        "name": "Sunset Beach",
+        "tags": ["002", "sunset", "beach"]
+    },
+    {
+        "file": "003.svg",
+        "name": "Green Forest",
+        "tags": ["003", "forest", "green"]
+    },
+    {
+        "file": "004.svg",
+        "name": "Blue Mountain",
+        "tags": ["004", "mountain", "blue"]
+    },
+    {
+        "file": "005.svg",
+        "name": "Sunset Beach",
+        "tags": ["005", "sunset", "beach"]
+    },
+    {
+        "file": "006.svg",
+        "name": "Green Forest",
+        "tags": ["003", "forest", "green"]
+    },
+    {
+        "file": "007.svg",
+        "name": "Sunset Beach",
+        "tags": ["007", "sunset", "beach"]
+    },
+    {
+        "file": "008.svg",
+        "name": "Green Forest",
+        "tags": ["008", "forest", "green"]
+    },
+    {
+        "file": "009.svg",
+        "name": "Blue Mountain",
+        "tags": ["009", "mountain", "blue"]
+    },
+    {
+        "file": "010.svg",
+        "name": "Sunset Beach",
+        "tags": ["010", "sunset", "beach"]
+    },
+    {
+        "file": "011.svg",
+        "name": "Blue Mountain",
+        "tags": ["011", "mountain", "blue"]
+    },
+    {
+        "file": "012.svg",
+        "name": "Green Forest",
+        "tags": ["012", "forest", "green"]
+    }
+]
