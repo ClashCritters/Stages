@@ -1,61 +1,116 @@
 [
     {
-        "file": "001.svg",
-        "name": "Blue Mountain",
-        "tags": ["001", "mountain", "blue"]
+        "file": "25-31.jpg",
+        "name": "25-31",
+        "tags": ["523", "25-30"]
     },
     {
-        "file": "002.svg",
-        "name": "Sunset Beach",
-        "tags": ["002", "sunset", "beach"]
+        "file": "25-41.jpg",
+        "name": "25-41",
+        "tags": ["523", "25-40"]
     },
     {
-        "file": "003.svg",
-        "name": "Green Forest",
-        "tags": ["003", "forest", "green"]
+        "file": "25-51.jpg",
+        "name": "25-51",
+        "tags": ["523", "25-50"]
     },
     {
-        "file": "004.svg",
+        "file": "25-61.jpg",
+        "name": "25-61",
+        "tags": ["523", "25-60"]
+    },
+    {
+        "file": "25-71.jpg",
+        "name": "25-71",
+        "tags": ["523", "25-70"]
+    },
+    {
+        "file": "25-76.png",
+        "name": "25-76",
+        "tags": ["528", "25-75"]
+    },
+    {
+        "file": "25-78.jpg",
+        "name": "25-78",
+        "tags": ["528", "25-77"]
+    },
+    {
+        "file": "25-80.jpg",
+        "name": "25-80",
+        "tags": ["528", "25-79"]
+    },
+    {
+        "file": "26-1.jpg",
+        "name": "26-1",
+        "tags": ["532", "26-1", "26-2", "26-3", "26-4"]
+    },
+    {
+        "file": "26-6.jpg",
+        "name": "26-6",
+        "tags": ["532", "26-5", "26-6", "26-7"]
+    },
+    {
+        "file": "26-9.jpg",
+        "name": "26-9",
+        "tags": ["532", "26-8"]
+    },
+    {
+        "file": "26-10.jpg",
+        "name": "26-10",
+        "tags": ["532", "26-9"]
+    },
+    {
+        "file": "27-25.jpg",
+        "name": "27-25",
+        "tags": ["573", "27-24"]
+    },
+    {
+        "file": "27-26.jpg",
+        "name": "27-26",
+        "tags": ["573", "27-25"]
+    },
+    {
+        "file": "004.jpg",
         "name": "Blue Mountain",
         "tags": ["004", "mountain", "blue"]
     },
     {
-        "file": "005.svg",
+        "file": "005.jpg",
         "name": "Sunset Beach",
         "tags": ["005", "sunset", "beach"]
     },
     {
-        "file": "006.svg",
+        "file": "006.jpg",
         "name": "Green Forest",
         "tags": ["003", "forest", "green"]
     },
     {
-        "file": "007.svg",
+        "file": "007.jpg",
         "name": "Sunset Beach",
         "tags": ["007", "sunset", "beach"]
     },
     {
-        "file": "008.svg",
+        "file": "008.jpg",
         "name": "Green Forest",
         "tags": ["008", "forest", "green"]
     },
     {
-        "file": "009.svg",
+        "file": "009.jpg",
         "name": "Blue Mountain",
         "tags": ["009", "mountain", "blue"]
     },
     {
-        "file": "010.svg",
+        "file": "010.jpg",
         "name": "Sunset Beach",
         "tags": ["010", "sunset", "beach"]
     },
     {
-        "file": "011.svg",
+        "file": "011.jpg",
         "name": "Blue Mountain",
         "tags": ["011", "mountain", "blue"]
     },
     {
-        "file": "012.svg",
+        "file": "012.jpg",
         "name": "Green Forest",
         "tags": ["012", "forest", "green"]
     }
