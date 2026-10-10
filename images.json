@@ -68,50 +68,5 @@
         "file": "27-26.jpg",
         "name": "27-26",
         "tags": ["573", "27-25"]
-    },
-    {
-        "file": "004.jpg",
-        "name": "Blue Mountain",
-        "tags": ["004", "mountain", "blue"]
-    },
-    {
-        "file": "005.jpg",
-        "name": "Sunset Beach",
-        "tags": ["005", "sunset", "beach"]
-    },
-    {
-        "file": "006.jpg",
-        "name": "Green Forest",
-        "tags": ["003", "forest", "green"]
-    },
-    {
-        "file": "007.jpg",
-        "name": "Sunset Beach",
-        "tags": ["007", "sunset", "beach"]
-    },
-    {
-        "file": "008.jpg",
-        "name": "Green Forest",
-        "tags": ["008", "forest", "green"]
-    },
-    {
-        "file": "009.jpg",
-        "name": "Blue Mountain",
-        "tags": ["009", "mountain", "blue"]
-    },
-    {
-        "file": "010.jpg",
-        "name": "Sunset Beach",
-        "tags": ["010", "sunset", "beach"]
-    },
-    {
-        "file": "011.jpg",
-        "name": "Blue Mountain",
-        "tags": ["011", "mountain", "blue"]
-    },
-    {
-        "file": "012.jpg",
-        "name": "Green Forest",
-        "tags": ["012", "forest", "green"]
     }
 ]
